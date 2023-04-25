@@ -44,10 +44,10 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinmaruca&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinmaruca&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinmaruca&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinmaruca&repo=ml-research)](https://github.com/stocksmith/ml-research)
 
 <br />
 
